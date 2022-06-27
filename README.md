@@ -1,5 +1,6 @@
 # docs
 
+- Every new line should be prefixed with 2 spaces.
 - [Github Markdown Basic Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - Blank HTML
 
