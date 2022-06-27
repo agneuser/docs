@@ -1,7 +1,7 @@
 # docs
 
 - Every new line should be prefixed with 2 spaces.
-  - <https://gist.github.com/shaunlebron/746476e6e7a4d698b373>
+  - [linebreak.md](https://gist.github.com/shaunlebron/746476e6e7a4d698b373)
 - [Github Markdown Basic Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - Blank HTML
 
