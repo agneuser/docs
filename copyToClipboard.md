@@ -1,3 +1,5 @@
+# copyToClipboard
+
 - `<p><code>txt</code>&nbsp;&nbsp;&nbsp;<button type="button" onclick="copy('txtToCopy')">+</button></p>`
 - CSS
 
